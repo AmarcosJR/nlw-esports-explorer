@@ -7,8 +7,6 @@
 
 project made in Next Level Week from Rocketseat
 
-[Click here to Project](amarcosjr.github.io/nlw-esports-explorer/)
-
 
 ## Technologies
 
